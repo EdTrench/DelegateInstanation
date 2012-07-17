@@ -1,0 +1,10 @@
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\DelegateInstanation\bin\Debug\DelegateInstanation.exe
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\DelegateInstanation\bin\Debug\DelegateInstanation.pdb
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\DelegateInstanation\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\DelegateInstanation\obj\x86\Debug\DelegateInstanation.exe
+C:\Users\edtrenchard\AppData\Local\Temporary Projects\DelegateInstanation\obj\x86\Debug\DelegateInstanation.pdb
+C:\Projects\DelegateInstanation\DelegateInstanation\obj\x86\Debug\DelegateInstanation.exe
+C:\Projects\DelegateInstanation\DelegateInstanation\obj\x86\Debug\DelegateInstanation.pdb
+C:\Projects\DelegateInstanation\DelegateInstanation\bin\Debug\DelegateInstanation.exe
+C:\Projects\DelegateInstanation\DelegateInstanation\bin\Debug\DelegateInstanation.pdb
+C:\Projects\DelegateInstanation\DelegateInstanation\obj\x86\Debug\ResolveAssemblyReference.cache
